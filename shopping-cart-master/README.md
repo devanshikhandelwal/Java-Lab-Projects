@@ -122,9 +122,8 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 <bold>Thanks a lot!!!</bold><br/>
                                                                                                         Project Leader<br/>
 <<<<<<< HEAD
-                                                                                                         <b>Mridul Kumawat</b>
-=======
                                                                                                          <b>Devanshi Khandelwal</b>
+
 >>>>>>> other/main
 
 
